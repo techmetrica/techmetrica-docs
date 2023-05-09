@@ -1,0 +1,19 @@
+{
+  "name": "core-service",
+  "version": "1.0.1",
+  "description": "Core API for techmetrica.org",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "clean": "rm -rf node_modules",
+    "install:prod": "pnpm install --prod --ignore-scripts",
+    "build": "pnpm run clean && pnpm run install:prod",
+    "test": "jest",
+    "build:docker": "docker-compose build && rm -rf '~' doc",
+    "run:docker": "docker-compose up --build",
+    "push:docker": "docker push techmetrica/techmetrica:core-service",
+    "ship": "pnpm run build && pnpm run build:docker && pnpm run push:docker"
+  },
+  "author": "nyvia-projects",
+  "dependencies": {}
+}
