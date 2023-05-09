@@ -12,4 +12,4 @@ Multi-model MVC CRUD RESTful API configured with MongoDB
 
 ## models
 
-## [controllers](<(https://github.com/techmetrica/techmetrica-docs/tree/master/apps/core/cor-service/src/controllers/)>)
+## [controllers](<(https://github.com/techmetrica/techmetrica-docs/tree/master/apps/core/core-service/src/controllers/)>)
