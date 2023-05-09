@@ -4,12 +4,18 @@ Multi-model MVC CRUD RESTful API configured with MongoDB
 
 ## routes
 
-- /forms
-- /responses
-- /games
-- /results
-- /users
+- [/forms](./src/routes/form.router.js.md)
+- [/responses](./src/routes/response.router.js.md)
+- [/games](./src/routes/response.router.js.md)
+- [/results](./src/routes/result.router.js.md)
+- [/users](./src/routes/user.router.js.md)
 
 ## models
 
-## [controllers](<(https://github.com/techmetrica/techmetrica-docs/tree/master/apps/core/core-service/src/controllers/)>)
+- form
+- response
+- game
+- result
+- user
+
+## [controllers](./src/controllers/)
