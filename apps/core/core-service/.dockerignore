@@ -1,3 +1,4 @@
 *
 !package.json
 !src
+# !.env # enverinoment variables get loaded through main docker-compose

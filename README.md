@@ -1,4 +1,9 @@
 # Techmetrica Public Repo for the world
 
-You will find documentation as well as exact project structure and modules used in our project.
+Our documentation is being updated regularly
 
+First iteration of [techmetrica.org](https://techmetrica.org) will be available SOON!
+
+### **Architecture** and **Software Design** - by [Gevorg Atoyan](https://linkedin.com/in/gevorgatoyan/)@[Nyvia Projects](https://github.com/nyvia-projects)
+
+![Architecture](boring-architecture.png)

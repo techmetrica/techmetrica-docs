@@ -1,6 +1,6 @@
 # core-service for [Techmetrica](https://github.com/techmetrica/techmetrica-docs)
 
-Multi-model MVC CRUD RESTful API configured with MongoDB
+Multi-model CRUD RESTful API configured with MongoDB
 
 ## routes
 
@@ -17,6 +17,8 @@ Multi-model MVC CRUD RESTful API configured with MongoDB
 - [game](./src/models/game.model.js.md)
 - [result](./src/models/result.model.js.md)
 - [user](./src/models/user.model.js.md)
+
+---
 
 ### - [controllers](./src/controllers/)
 
