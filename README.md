@@ -6,7 +6,7 @@ First iteration of [techmetrica.org](https://techmetrica.org) will be available 
 
 ### **Architecture** and **Software Design** - by [Gevorg Atoyan](https://linkedin.com/in/gevorgatoyan/)@[Nyvia Projects](https://github.com/nyvia-projects)
 
-![Architecture](boring-architecture.png)
+![Architecture](architecture.png)
 
 ---
 
